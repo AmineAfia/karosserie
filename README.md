@@ -1,3 +1,5 @@
+### Seminar Arbeit: https://amineafia.github.io/Fallstudienseminar-Innovationsmanagement/ 
+
 #### Szenario Nr. 4		/ Häufigkeit: 11		/ Konsistenzmaß: 30
 
 - Materialzusammensetzung: Verwendung eines ausgeglichenden Materialmix
